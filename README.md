@@ -6,7 +6,7 @@ Here I track my daily progress and projects.
 
 | Day | Date | Project | What I Learned | Status | Code |
 |:---:|---|---|---|:---:|:---:|
-| 01 | 14 Oct 2026 | Band Name Generator | User input and variables | ✅ Done | BAND_GENERATOR.md|
+| 01 | 14 Oct 2026 | Band Name Generator | User input and variables | ✅ Done | https://github.com/tanu34742-lang/100_python_projects_by_tan/blob/main/BAND_GENERATOR.md|
 | 02 | 15 Oct 2026 | Tip Calculator | Calculations and data types | ✅ Done | [Code](./Day02/) |
 | 03 | 16 Oct 2026 | Adventure Game | If-else statements | 🔄 In Progress | [Code](./Day03/) |
 | 04 | | Rock Paper Scissors | Conditional statements | ⏳ Pending | |
