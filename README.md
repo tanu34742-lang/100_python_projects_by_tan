@@ -8,8 +8,8 @@ Here I track my daily progress and projects.
 |:---:|---|---|---|:---:|:---:|
 | 01 | 14 Oct 2026 | Band Name Generator | User input and variables | ✅ Done |[Code](https://github.com/tanu34742-lang/100_python_projects_by_tan/blob/main/BAND_GENERATOR.md)|
 | 02 | 15 Oct 2026 | Tip Calculator | Calculations and data types | ✅ Done | [Code](https://github.com/tanu34742-lang/100_python_projects_by_tan/blob/main/TIP_CALCULATOR.py) |
-| 03 | 16 Oct 2026 | Treasure island Game | If-else statements |  ✅ Done  | [Code](https://github.com/tanu34742-lang/100_python_projects_by_tan/blob/main/TREASURE_ISLAND.py) |
-| 04 | | Rock Paper Scissors | Conditional statements | ⏳ Pending | |
+| 03 | 15 Oct 2026 | Treasure island Game | If-else statements |  ✅ Done  | [Code](https://github.com/tanu34742-lang/100_python_projects_by_tan/blob/main/TREASURE_ISLAND.py) |
+| 04 | 15 Oct 2026 | PIZZA DELIVERY  | If-Else statements |  ✅ Done  |[Code](https://github.com/tanu34742-lang/100_python_projects_by_tan/blob/main/PIZZA_DELIVERY.py )|
 | 05 | | Password Generator | Lists and randomization | ⏳ Pending | |
 | 06 | | Maze Solver | Functions | ⏳ Pending | |
 | 07 | | Hangman | Loops and modules | ⏳ Pending | |
