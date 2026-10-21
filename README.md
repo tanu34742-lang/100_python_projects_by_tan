@@ -12,6 +12,6 @@ Here I track my daily progress and projects.
 | 04 | 15 Oct 2026 | PIZZA DELIVERY  | If-Else statements |  ✅ Done  |[Code](https://github.com/tanu34742-lang/100_python_projects_by_tan/blob/main/PIZZA_DELIVERY.py )|
 | 06 | 16 Oct 2026| ROCK PAPER SCISSOR | Lists and randomization |  ✅ Done | [Code](https://github.com/tanu34742-lang/100_python_projects_by_tan/blob/main/ROCK_PAPER_SCISSOR.py)|
 | 07 | 16 Oct 2026| SNAKE WATER GUN | Lists and randomization |  ✅ Done | [Code](https://github.com/tanu34742-lang/100_python_projects_by_tan/blob/main/snake_water_gun.py)|
-| 05 | | Password Generator | Lists and randomization | ⏳ Pending | |
+| 08|21 Oct 2026 | Password Generator 1 | Lists and randomization | ✅ Done |[Code](https://github.com/tanu34742-lang/100_python_projects_by_tan/blob/main/snake_water_gun.py)| |
 | 06 | | Maze Solver | Functions | ⏳ Pending | |
 | 07 | | Hangman | Loops and modules | ⏳ Pending | |
